@@ -18,3 +18,4 @@ const resume={
     "experience":2,
     "email":"ganesh.gmv004@gmail.com"
 }
+console.log(resume)
